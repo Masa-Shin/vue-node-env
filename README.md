@@ -1,2 +1,3 @@
 # vue-node-env
-Vue plugin to get NODE_ENV
+A Simple Vue plugin to determine node environment safely.
+WIP
